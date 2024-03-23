@@ -1,66 +1,66 @@
 {
-    "users": [
-      {
-        "login": "eduardo",
-        "id": 1,
-        "avatar_url": "https://avatars.githubusercontent.com/u/114515828?v=4",
-        "name": "Eduardo Robetti Bedin",
-        "email": "eduardo@email.com",
-        "followers": 43,
-        "following": 54
-      },
-      {
-        "login": "nataliakt",
-        "id": 2,
-        "avatar_url": "https://avatars.githubusercontent.com/u/9091491?v=4",
-        "name": "Natalia Kelim Thiel",
-        "email": "natalia@email.com",
-        "followers": 51,
-        "following": 7
-      }
-    ],
-    "repos": [
-      {
-        "id": 2,
-        "name": "api-escolas",
-        "data": "1 de jan. de 2021",
-        "postId": 1
-      },
-      {
-        "id": 3,
-        "name": "Arduino_AVES_Telemetria",
-        "data": "1 de jan. de 2021",
-        "postId": 1
-      },
-      {
-        "id": 4,
-        "name": "bot_piano_tiles",
-        "data": "1 de jan. de 2021",
-        "postId": 1
-      },
-      {
-        "id": 1,
-        "name": "2048evolution",
-        "data": "1 de jan. de 2021",
-        "postId": 2
-      },
-      {
-        "id": 2,
-        "name": "alura-pikachu",
-        "data": "1 de jan. de 2021",
-        "postId": 2
-      },
-      {
-        "id": 3,
-        "name": "alura-react-native-comecando-do-zero",
-        "data": "1 de jan. de 2021",
-        "postId": 2
-      },
-      {
-        "id": 5,
-        "name": "Alura_cursos",
-        "data": "1 de jan. de 2021",
-        "postId": 1
-      }
-    ]
-  }
+  "users": [
+    {
+      "login": "eduardo",
+      "id": "1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/114515828?v=4",
+      "name": "Eduardo Robetti Bedin",
+      "email": "eduardo@email.com",
+      "followers": 43,
+      "following": 54
+    },
+    {
+      "login": "nataliakt",
+      "id": "2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9091491?v=4",
+      "name": "Natalia Kelim Thiel",
+      "email": "natalia@email.com",
+      "followers": 51,
+      "following": 7
+    }
+  ],
+  "repos": [
+    {
+      "name": "api-escolas 10",
+      "data": "1 de jan. de 2021",
+      "postId": 1,
+      "id": "2"
+    },
+    {
+      "name": "Arduino_AVES teste",
+      "data": "1 de jan. de 2021",
+      "postId": 1,
+      "id": "3"
+    },
+    {
+      "name": "bot_piano_tiles 6l7",
+      "data": "1 de jan. de 2021",
+      "id": "4",
+      "postId": 1
+    },
+    {
+      "id": "1",
+      "name": "2048evolution",
+      "data": "1 de jan. de 2021",
+      "postId": 2
+    },
+    {
+      "id": "2",
+      "name": "alura-pikachu",
+      "data": "1 de jan. de 2021",
+      "postId": 2
+    },
+    {
+      "id": "3",
+      "name": "alura-react-native-comecando-do-zero",
+      "data": "1 de jan. de 2021",
+      "postId": 2
+    },
+    {
+      "id": "5",
+      "name": "Alura_cursos",
+      "data": "1 de jan. de 2021",
+      "postId": 1
+    }
+  ]
+}

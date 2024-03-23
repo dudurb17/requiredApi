@@ -71,7 +71,7 @@ export default function Principal({ navigation }) {
           placeholder="Busque por um usuário"
           autoCapitalize="none"
           style={estilos.entrada}
-          value={nomeUsuario}
+          value={"eduardo"}
           onChangeText={(value) => setNomeUsuario(value)}
         />
 
