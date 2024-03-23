@@ -9,7 +9,6 @@ import {
   ScrollView,
 } from "react-native";
 import estilos from "./estilos";
-import api from "../../services/api";
 import { buscaUsuario } from "../../services/requisicoes/usuarios";
 
 export default function Principal({ navigation }) {
@@ -59,7 +58,9 @@ export default function Principal({ navigation }) {
               </View>
             </View>
             <TouchableOpacity
-              onPress={() => navigation.navigate("Repositorios")}
+              onPress={() =>
+                navigation.navigate("Repositorios", { id: usuario.id })
+              }
             >
               <Text style={estilos.repositorios}>Ver os repositórios</Text>
             </TouchableOpacity>
